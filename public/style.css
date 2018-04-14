@@ -1,0 +1,11 @@
+.home{
+  height: 1.5rem;
+  color: black;
+}
+
+body{
+  background-image: url('casino.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  /* opacity: 50%; */
+}
